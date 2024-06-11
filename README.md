@@ -1,5 +1,12 @@
 Welcome to Ragdolly 2! Its a Ragdoll simulator, were you can mess around with floppy people! 
 
+
+INSTALL INSTRUCTIONS:
+
+EVERYONE PLEASE DOWNLOAD FORM THE RELEASE PAGE! Double click the insstallable file to install
+
+
+
 Note From The Dev:
 
 "Hello ALL!
