@@ -1,3 +1,6 @@
+
+NOTE: guys, REMEMBER TO DOWNLOAD THE .EXE the installer doesnt allways work, thanks!
+
 Welcome to Ragdolly 2! Its a Ragdoll simulator, were you can mess around with floppy people! 
 
 
@@ -15,7 +18,6 @@ Some notes on this github repositry.
 
 If you want to download the game like a normal human being go to this itch page: https://checktech43dev.itch.io/ragdolly-2-pre-alpha
 
-NOTE: guys, DONT downlaod the .exe it downst work
 
 Ye this is a thing.
 
